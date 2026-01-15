@@ -90,4 +90,4 @@ build\build_windows.bat
 MIT (veja `LICENSE.txt`).
 
 ## Contato / suporte
-- X: **@3ddY99**
+- Mail: **eddy.digital.solutions@gmail.com**
