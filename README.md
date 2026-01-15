@@ -29,7 +29,7 @@ NeverLost cria um **mapa offline** do seu PC: varre seus discos (sem mover/apaga
 ---
 
 ## Como usar (modo recomendado)
-1) Baixe a **One-Click Edition (Windows)** no Gumroad (EXE pronto)  
+1) Baixe a **Observer Edition (One-Click, Windows)** no Gumroad (EXE pronto)  
 2) Abra o app, escolha a pasta de saída (onde ficam **relatório + DB**)  
 3) Marque **“Iniciar análise em TODOS os discos automaticamente”**  
 4) Clique em **Iniciar análise**  
@@ -60,7 +60,7 @@ NeverLost cria um **mapa offline** do seu PC: varre seus discos (sem mover/apaga
 
 ## Repositório x Produto
 Este repositório é a “vitrine técnica” (código + docs + build).  
-A versão vendida é a **One-Click Edition (EXE pronto + pacote organizado)**.
+A versão vendida é a **Observer Edition (One-Click, EXE pronto + pacote organizado)**.
 
 **Gumroad:** veja a página do produto (link no perfil / descrição).  
 
@@ -86,8 +86,24 @@ build\build_windows.bat
 
 ---
 
+
+## Links oficiais
+
+- Gumroad (download do EXE / versão vendável): https://srdarth.gumroad.com/l/NeverLost
+- X / atualizações e suporte: https://x.com/eddysleite
+- GitHub (código-fonte / issues): https://github.com/EddysLeite/NeverLost-ObserverEdition
+
+## Exemplo de relatório (sem dados pessoais)
+
+Este repositório inclui um exemplo **sanitizado** em `examples/`:
+- `examples/sample_report_redacted.html`
+- `examples/sample_resumo_redacted.json`
+
+> Observação: o NeverLost real gera relatórios com caminhos do seu PC. Para publicar prints/relatórios, use sempre versões redatadas.
+
+
 ## Licença
 MIT (veja `LICENSE.txt`).
 
 ## Contato / suporte
-- Mail: **eddy.digital.solutions@gmail.com**
+- X: **@eddysleite**
