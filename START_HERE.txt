@@ -1,0 +1,32 @@
+NEVERLOST v1.0 — OBSERVER EDITION (ONE-CLICK)
+Scanner Forense de Soberania Digital Pessoal (100% Offline)
+
+O que isso faz?
+- Varre seus discos e cria um “MAPA DO CAOS”: um relatório HTML + um banco incremental (SQLite).
+- Modo OBSERVER: não move, não apaga, não altera arquivos.
+
+COMO USAR (3 passos)
+1) Dê duplo clique em: NeverLost_Observer.exe
+2) Escolha a pasta de saída (onde vão ficar o relatório + o banco).
+3) Escolha os discos e clique em: Iniciar análise
+
+Recomendado (simples):
+- Marque “Iniciar análise em TODOS os discos automaticamente”.
+- (Opcional) Marque “Incluir pendrives / removíveis”.
+- Clique em “Iniciar análise”.
+
+Depois que terminar:
+- Clique em “Abrir pasta de saída”
+- Abra: relatorio_mapa_do_caos.html
+
+Dicas rápidas
+- Primeiro scan pode demorar (depende do tamanho do HD). Os próximos ficam mais rápidos (incremental).
+- Se aparecer “Windows protegeu seu PC”: clique em “Mais informações” > “Executar assim mesmo”.
+- Antivírus pode desconfiar de EXE feito com PyInstaller (falso positivo). O app é offline e só lê.
+
+Exemplos e prints
+- Pasta EXEMPLOS: relatórios reais (vários runs).
+- Pasta SCREENSHOTS: imagens para você entender o que vai sair.
+
+Suporte (por enquanto)
+- X/Twitter: @3ddY99

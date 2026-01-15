@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Local outputs
+*.db
+*.sqlite
+*.log
+*_output/
+eddy_output/
+out/
+reports/
+relatorios/
+*.html
+resumo*.json
+
+# OS
+.DS_Store
+Thumbs.db

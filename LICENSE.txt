@@ -1,0 +1,17 @@
+NeverLost — License (Indie / Single User)
+
+Você pode:
+- Usar o NeverLost no seu computador pessoal.
+- Usar o NeverLost no seu computador de trabalho (uso individual).
+- Modificar o arquivo para uso próprio.
+
+Você não pode:
+- Revender, redistribuir, ou reempacotar o NeverLost (inclusive grátis) sem permissão.
+- Publicar o código como “seu” em repositórios públicos.
+- Usar o nome NeverLost para clonar/produto concorrente.
+
+Garantia:
+- Este software é fornecido “como está”, sem garantias.
+- Você é responsável pelo uso e pelos seus dados.
+
+Copyright (c) 2026 — Edson “EddY” Souza Leite / Eddy Digital Solutions
